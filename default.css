@@ -1,0 +1,78 @@
+body {
+    background-image: url(graphics/hyperspace.png);
+    background-size: 1920px;
+    background-position-x: -170px;
+    width: 1080px;
+    height: 960px;
+}
+
+.division1{
+    position: absolute;
+    top: -50px;
+    right: 310px;
+    width: 800px;
+    height: 100px;
+}
+
+.division2{
+    position: absolute;
+    scale: .3;
+    right: 700px;
+    top: -110px;
+}
+
+.division3{
+    position: absolute;
+    scale: .71;
+    right: 600px;
+    top: 230px;
+}
+
+.division4{
+    position: absolute;
+    scale: .71;
+    right: 250px;
+    top: 230px;
+}
+
+a:link{
+    color: white;
+}
+
+a:visited {
+    color: lightgray;
+}
+
+.division5{
+    font-family:'Teko', sans-serif;
+    font-size: 24px;
+    color: white;
+    position: absolute;
+    right: 970px;
+    top: 680px;
+}
+
+.division6{
+    font-family:'Teko', sans-serif;
+    font-size: 24px;
+    color: white;
+    position: absolute;
+    right: 630px;
+    top: 680px;
+}
+
+.division7{
+    font-family:'Teko', sans-serif;
+    font-size: 24px;
+    color: white;
+    position: absolute;
+    right: 290px;
+    top: 680px;
+}
+
+h1 {
+    font-family: 'Teko', sans-serif;
+    font-size: 84px;
+    color: white;
+    text-shadow: 8px 8px 8px black;
+}
